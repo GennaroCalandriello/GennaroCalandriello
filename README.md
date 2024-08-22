@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm a theoretical physicist exploring the world of High Performance Computing and Lattice Gauge Theories. If 
-![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FGennaroCalandriello&label=VISITORS&labelColor=%23697689&countColor=%2337d67a)
 <!--
 **GennaroCalandriello/GennaroCalandriello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
