@@ -3,7 +3,7 @@
 
 ![Snake animation dark mode](https://github.com/gennarocalandriello/gennarocalandriello/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 A little about me: 
-- 🔭 I’m currently engaged in CFD research, focusing on advanced model order reduction techniques. 
+- 🔭 I’m currently working on CFD research, focusing on Advanced Model Order Reduction techniques. 
 - 🔭 I am a research fellow at SMART Lab, at Scuola Superiore Sant'Anna. 
 - 🌱 I’m deepening my expertise in high-performance computing and GPU-accelerated numerical simulations. 
 - 🌱 I’m also exploring the fascinating realms of Relativistic Hydrodynamics and General Relativity. -->
