@@ -5,5 +5,5 @@
 A little about me: 
 - 🔭 I’m currently working on CFD research, focusing on Advanced Model Order Reduction techniques. 
 - 🔭 I am a research fellow at SMART Lab, at Scuola Superiore Sant'Anna. 
-- 🌱 I’m deepening my expertise in high-performance computing and GPU-accelerated numerical simulations. 
+- 🌱 I’m deepening my expertise in HPC and GPU-accelerated numerical simulations. 
 - 🌱 I’m also exploring the fascinating realms of Relativistic Hydrodynamics and General Relativity. -->
